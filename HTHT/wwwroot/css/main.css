@@ -1,0 +1,14 @@
+.subject {
+    color: white;
+    font-weight: bold;
+    background-color: #d06228 !important;
+    border-radius: 4px;
+    font-size: 15px;
+    
+}
+
+.subject:hover{
+    border: 2px solid #d06228;
+    background-color: white !important;
+    color: #d06228;
+}
